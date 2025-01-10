@@ -1,0 +1,22 @@
+/* style.css */
+/* Set the background color of the entire page */
+body {
+  background-color: #f1e9f3; /* Milk color */
+}
+/* Style for the 'Welcome Engineers!' header */
+h1 {
+  color: #00008b; /* Dark blue color */
+}
+
+/* Style for the 'Upload a File' heading */
+h3 {
+  color: #00008b; /* Dark blue color */
+}
+main p {
+  font-weight: bold;
+  color: brown;
+}
+
+/* Make the copyright 2025 bold */
+footer p {
+  font-weight: bold;
